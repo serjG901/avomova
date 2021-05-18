@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/avomova/static/css/main.000ade6d.chunk.css",
-    "main.js": "/avomova/static/js/main.f1cf4c5d.chunk.js",
-    "main.js.map": "/avomova/static/js/main.f1cf4c5d.chunk.js.map",
+    "main.js": "/avomova/static/js/main.541a93fa.chunk.js",
+    "main.js.map": "/avomova/static/js/main.541a93fa.chunk.js.map",
     "runtime-main.js": "/avomova/static/js/runtime-main.2f503fb1.js",
     "runtime-main.js.map": "/avomova/static/js/runtime-main.2f503fb1.js.map",
-    "static/js/2.dbc6154c.chunk.js": "/avomova/static/js/2.dbc6154c.chunk.js",
-    "static/js/2.dbc6154c.chunk.js.map": "/avomova/static/js/2.dbc6154c.chunk.js.map",
+    "static/js/2.27fa7e60.chunk.js": "/avomova/static/js/2.27fa7e60.chunk.js",
+    "static/js/2.27fa7e60.chunk.js.map": "/avomova/static/js/2.27fa7e60.chunk.js.map",
     "static/js/3.864c1b11.chunk.js": "/avomova/static/js/3.864c1b11.chunk.js",
     "static/js/3.864c1b11.chunk.js.map": "/avomova/static/js/3.864c1b11.chunk.js.map",
     "index.html": "/avomova/index.html",
     "service-worker.js": "/avomova/service-worker.js",
     "service-worker.js.map": "/avomova/service-worker.js.map",
     "static/css/main.000ade6d.chunk.css.map": "/avomova/static/css/main.000ade6d.chunk.css.map",
-    "static/js/2.dbc6154c.chunk.js.LICENSE.txt": "/avomova/static/js/2.dbc6154c.chunk.js.LICENSE.txt"
+    "static/js/2.27fa7e60.chunk.js.LICENSE.txt": "/avomova/static/js/2.27fa7e60.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2f503fb1.js",
-    "static/js/2.dbc6154c.chunk.js",
+    "static/js/2.27fa7e60.chunk.js",
     "static/css/main.000ade6d.chunk.css",
-    "static/js/main.f1cf4c5d.chunk.js"
+    "static/js/main.541a93fa.chunk.js"
   ]
 }
