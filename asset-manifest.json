@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/avomova/static/css/main.fe2120c5.chunk.css",
-    "main.js": "/avomova/static/js/main.2555fffd.chunk.js",
-    "main.js.map": "/avomova/static/js/main.2555fffd.chunk.js.map",
+    "main.css": "/avomova/static/css/main.99dee464.chunk.css",
+    "main.js": "/avomova/static/js/main.70e24e69.chunk.js",
+    "main.js.map": "/avomova/static/js/main.70e24e69.chunk.js.map",
     "runtime-main.js": "/avomova/static/js/runtime-main.2f503fb1.js",
     "runtime-main.js.map": "/avomova/static/js/runtime-main.2f503fb1.js.map",
     "static/js/2.dbc6154c.chunk.js": "/avomova/static/js/2.dbc6154c.chunk.js",
@@ -12,13 +12,13 @@
     "index.html": "/avomova/index.html",
     "service-worker.js": "/avomova/service-worker.js",
     "service-worker.js.map": "/avomova/service-worker.js.map",
-    "static/css/main.fe2120c5.chunk.css.map": "/avomova/static/css/main.fe2120c5.chunk.css.map",
+    "static/css/main.99dee464.chunk.css.map": "/avomova/static/css/main.99dee464.chunk.css.map",
     "static/js/2.dbc6154c.chunk.js.LICENSE.txt": "/avomova/static/js/2.dbc6154c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2f503fb1.js",
     "static/js/2.dbc6154c.chunk.js",
-    "static/css/main.fe2120c5.chunk.css",
-    "static/js/main.2555fffd.chunk.js"
+    "static/css/main.99dee464.chunk.css",
+    "static/js/main.70e24e69.chunk.js"
   ]
 }

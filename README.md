@@ -1,2 +1,2 @@
 # avomova
- AVOMOVA - anime, manga, cinema on MOVA
+ AVOMOVA - audio, video and other on belarusian language
