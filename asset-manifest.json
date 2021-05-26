@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/avomova/static/css/main.e2ebe521.chunk.css",
+    "main.css": "/avomova/static/css/main.fcea045d.chunk.css",
     "main.js": "/avomova/static/js/main.b46b55f7.chunk.js",
     "main.js.map": "/avomova/static/js/main.b46b55f7.chunk.js.map",
     "runtime-main.js": "/avomova/static/js/runtime-main.2f503fb1.js",
@@ -12,13 +12,13 @@
     "index.html": "/avomova/index.html",
     "service-worker.js": "/avomova/service-worker.js",
     "service-worker.js.map": "/avomova/service-worker.js.map",
-    "static/css/main.e2ebe521.chunk.css.map": "/avomova/static/css/main.e2ebe521.chunk.css.map",
+    "static/css/main.fcea045d.chunk.css.map": "/avomova/static/css/main.fcea045d.chunk.css.map",
     "static/js/2.52348423.chunk.js.LICENSE.txt": "/avomova/static/js/2.52348423.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2f503fb1.js",
     "static/js/2.52348423.chunk.js",
-    "static/css/main.e2ebe521.chunk.css",
+    "static/css/main.fcea045d.chunk.css",
     "static/js/main.b46b55f7.chunk.js"
   ]
 }
